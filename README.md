@@ -1,3 +1,3 @@
 # Hovedopgave
 
-Hovedopgave i forbindelse med datamatiker uddannelsen på Erhvevsakademite Lillebælt i Vejle.
+Hovedopgave i forbindelse med datamatiker uddannelsen på Erhvervsakademiet Lillebælt i Vejle.
